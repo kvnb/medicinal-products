@@ -4,7 +4,6 @@ Aminoglycosides,Antimicrobial
 Amphenicols,Antimicrobial
 Ansamycins (except rifaximin),Antimicrobial
 Ansamycins (rifaximin),Antimicrobial
-Antiseptic,Antimicrobial
 Carbapenems and other penems,Antimicrobial
 Cephalosporins (1G),Antimicrobial
 Cephalosporins (2G),Antimicrobial
@@ -40,3 +39,4 @@ Streptogramins,Antimicrobial
 "Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial
 Sulfones,Antimicrobial
 Tetracyclines,Antimicrobial
+Antiseptic,Antiseptic
