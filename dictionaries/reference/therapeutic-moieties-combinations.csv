@@ -1,0 +1,41 @@
+combination,component
+"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",Chlorocresol
+"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",Zinc Oxide
+"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",Phenoxyethanol
+"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",Lidocaine
+"Dihydrostreptomycin, Procaine Benzylpenicillin",Dihydrostreptomycin
+"Dihydrostreptomycin, Procaine Benzylpenicillin",Procaine Benzylpenicillin
+"Neomycin, Procaine Benzylpenicillin",Neomycin
+"Neomycin, Procaine Benzylpenicillin",Procaine Benzylpenicillin
+"Chlorhexidine, Miconazole",Chlorhexidine
+"Chlorhexidine, Miconazole",Miconazole
+"Fusidic Acid, Betamethasone",Fusidic Acid
+"Fusidic Acid, Betamethasone",Betamethasone
+"Polymyxin B, Prednisolone, Miconazole",Polymyxin B
+"Polymyxin B, Prednisolone, Miconazole",Prednisolone
+"Polymyxin B, Prednisolone, Miconazole",Miconazole
+"Marbofloxacin, Dexamethasone, Clotrimazole",Marbofloxacin
+"Marbofloxacin, Dexamethasone, Clotrimazole",Dexamethasone
+"Marbofloxacin, Dexamethasone, Clotrimazole",Clotrimazole
+"Fusidic Acid, Framycetin, Prednisolone, Nystatin",Fusidic Acid
+"Fusidic Acid, Framycetin, Prednisolone, Nystatin",Framycetin
+"Fusidic Acid, Framycetin, Prednisolone, Nystatin",Prednisolone
+"Fusidic Acid, Framycetin, Prednisolone, Nystatin",Nystatin
+"Gentamicin, Hydrocortisone, Miconazole",Gentamicin
+"Gentamicin, Hydrocortisone, Miconazole",Hydrocortisone
+"Gentamicin, Hydrocortisone, Miconazole",Miconazole
+"Marbofloxacin, Prednisolone, Ketoconazole",Marbofloxacin
+"Marbofloxacin, Prednisolone, Ketoconazole",Prednisolone
+"Marbofloxacin, Prednisolone, Ketoconazole",Ketoconazole
+"Florfenicol, Mometasone, Terbinafine",Florfenicol
+"Florfenicol, Mometasone, Terbinafine",Mometasone
+"Florfenicol, Mometasone, Terbinafine",Terbinafine
+"Florfenicol, Betamethasone, Terbinafine",Florfenicol
+"Florfenicol, Betamethasone, Terbinafine",Betamethasone
+"Florfenicol, Betamethasone, Terbinafine",Terbinafine
+"Gentamicin, Betamethasone, Clotrimazole",Gentamicin
+"Gentamicin, Betamethasone, Clotrimazole",Betamethasone
+"Gentamicin, Betamethasone, Clotrimazole",Clotrimazole
+"Orbifloxacin, Mometasone, Posaconazole",Orbifloxacin
+"Orbifloxacin, Mometasone, Posaconazole",Mometasone
+"Orbifloxacin, Mometasone, Posaconazole",Posaconazole

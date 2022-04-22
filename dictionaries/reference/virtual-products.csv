@@ -1,1 +1,64 @@
 id,name,moiety,form,route
+,Chlorhexidine Shampoo,Chlorhexidine,Shampoo,Topical
+,Chloramine-T Cutaneous Powder,Chloramine-T,Powder,Topical
+,Hydrous Benzoyl Peroxide Shampoo,Hydrous Benzoyl Peroxide,Shampoo,Topical
+,"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide Cream","Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",Cream,Topical
+,Amoxicillin Tablets,Amoxicillin,Tablet,Oral
+,Amoxicillin LA Suspension for Injection,Amoxicillin,LA Suspension for Injection,Injectable
+,Amoxicillin Liquid,Amoxicillin,Liquid,Oral
+,Amoxicillin Suspension for Injection,Amoxicillin,Suspension for Injection,Injectable
+,Amoxicillin Capsules,Amoxicillin,Capsule,Oral
+,Amoxicillin & Clavulanic Acid Tablets,Amoxicillin & Clavulanic Acid,Tablet,Oral
+,Amoxicillin & Clavulanic Acid Suspension for Injection,Amoxicillin & Clavulanic Acid,Suspension for Injection,Injectable
+,Amoxicillin & Clavulanic Acid Liquid,Amoxicillin & Clavulanic Acid,Liquid,Oral
+,Ampicillin LA Suspension for Injection,Ampicillin,LA Suspension for Injection,Injectable
+,Ampicillin Capsules,Ampicillin,Capsule,Oral
+,Cefalexin Tablets,Cefalexin,Tablet,Oral
+,Cefalexin Suspension for Injection,Cefalexin,Suspension for Injection,Injectable
+,Cefalexin Liquid,Cefalexin,Liquid,Oral
+,Cefovecin Solution for Injection,Cefovecin,Solution for Injection,Injectable
+,Chlortetracycline Ointment,Chlortetracycline,Ointment,Topical
+,Clindamycin Capsules,Clindamycin,Capsule,Oral
+,Clindamycin Tablets,Clindamycin,Tablet,Oral
+,Clindamycin Ointment,Clindamycin,Ointment,Topical
+,Clindamycin Liquid,Clindamycin,Liquid,Oral
+,Cloxacillin Ointment,Cloxacillin,Ointment,Topical
+,"Dihydrostreptomycin, Procaine Benzylpenicillin Suspension for Injection","Dihydrostreptomycin, Procaine Benzylpenicillin",Suspension for Injection,Injectable
+,Doxycycline Tablets,Doxycycline,Tablet,Oral
+,Enrofloxacin Liquid,Enrofloxacin,Liquid,Oral
+,Enrofloxacin Solution for Injection,Enrofloxacin,Solution for Injection,Injectable
+,Enrofloxacin Tablets,Enrofloxacin,Tablet,Oral
+,Fucidic Acid Ointment,Fusidic Acid,Ointment,Topical
+,Gentamicin Eye Drops,Gentamicin,Eye Drop,Topical
+,Lincomycin Solution for Injection,Lincomycin,Solution for Injection,Injectable
+,Marbofloxacin Tablets,Marbofloxacin,Tablet,Oral
+,Marbofloxacin Solution for Injection,Marbofloxacin,Solution for Injection,Injectable
+,Metronidazole Liquid,Metronidazole,Liquid,Oral
+,Metronidazole Tablets,Metronidazole,Tablet,Oral
+,Metronidazole & Spiramycin Tablets,Metronidazole & Spiramycin,Tablet,Oral
+,"Neomycin, Procaine Benzylpenicillin Suspension for Injection","Neomycin, Procaine Benzylpenicillin",Suspension for Injection,Injectable
+,Oxytetracycline Solution for Injection,Oxytetracycline,Solution for Injection,Injectable
+,Oxytetracycline Tablets,Oxytetracycline,Tablet,Oral
+,Oxytetracycline LA Solution for Injection,Oxytetracycline,LA Solution for Injection,Injectable
+,Pradofloxacin Tablets,Pradofloxacin,Tablet,Oral
+,Pradofloxacin Liquid,Pradofloxacin,Liquid,Oral
+,Procaine Benzylpenicillin Suspension for Injection,Procaine Benzylpenicillin,Suspension for Injection,Injectable
+,Sulfadiazine & Trimethoprim Solution for Injection,Sulfadiazine & Trimethoprim,Solution for Injection,Injectable
+,Sulfadiazine & Trimethoprim Tablets,Sulfadiazine & Trimethoprim,Tablet,Oral
+,Sulfamethoxazole & Trimethoprim Liquid,Sulfamethoxazole & Trimethoprim,Liquid,Oral
+,Tylosin Solution for Injection,Tylosin,Solution for Injection,Injectable
+,Tylosin Liquid,Tylosin,Liquid,Oral
+,Itraconazole Liquid,Itraconazole,Liquid,Oral
+,Ketoconazole Tablets,Ketoconazole,Tablet,Oral
+,Enilconazole Cream,Enilconazole,Cream,Topical
+,"Chlorhexidine, Miconazole Shampoo","Chlorhexidine, Miconazole",Shampoo,Topical
+,"Fusidic Acid, Betamethasone Gel","Fusidic Acid, Betamethasone",Gel,Topical
+,"Polymyxin B, Prednisolone, Miconazole Topical Suspension","Polymyxin B, Prednisolone, Miconazole",Topical Suspension,Topical
+,"Marbofloxacin, Dexamethasone, Clotrimazole Topical Suspension","Marbofloxacin, Dexamethasone, Clotrimazole",Topical Suspension,Topical
+,"Fusidic Acid, Framycetin, Prednisolone, Nystatin Topical Suspension","Fusidic Acid, Framycetin, Prednisolone, Nystatin",Topical Suspension,Topical
+,"Gentamicin, Hydrocortisone, Miconazole Topical Suspension","Gentamicin, Hydrocortisone, Miconazole",Topical Suspension,Topical
+,"Marbofloxacin, Prednisolone, Ketoconazole Topical Suspension","Marbofloxacin, Prednisolone, Ketoconazole",Topical Suspension,Topical
+,"Florfenicol, Mometasone, Terbinafine Topical Suspension","Florfenicol, Mometasone, Terbinafine",Topical Suspension,Topical
+,"Florfenicol, Betamethasone, Terbinafine Topical Suspension","Florfenicol, Betamethasone, Terbinafine",Topical Suspension,Topical
+,"Gentamicin, Betamethasone, Clotrimazole Topical Suspension","Gentamicin, Betamethasone, Clotrimazole",Topical Suspension,Topical
+,"Orbifloxacin, Mometasone, Posaconazole Topical Suspension","Orbifloxacin, Mometasone, Posaconazole",Topical Suspension,Topical

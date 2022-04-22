@@ -1,1 +1,86 @@
 id,name,class,family,combination
+,Spectinomycin,Aminocyclitols,Antimicrobial,FALSE
+,Amikacin,Aminoglycosides,Antimicrobial,FALSE
+,Dihydrostreptomycin,Aminoglycosides,Antimicrobial,FALSE
+,Framycetin,Aminoglycosides,Antimicrobial,FALSE
+,Gentamicin,Aminoglycosides,Antimicrobial,FALSE
+,Neomycin,Aminoglycosides,Antimicrobial,FALSE
+,Streptomycin,Aminoglycosides,Antimicrobial,FALSE
+,Tobramycin,Aminoglycosides,Antimicrobial,FALSE
+,Chloramphenicol,Amphenicols,Antimicrobial,FALSE
+,Florfenicol,Amphenicols,Antimicrobial,FALSE
+,Rifampicin,Ansamycins (except rifaximin),Antimicrobial,FALSE
+,Cefalexin,Cephalosporins (1G),Antimicrobial,FALSE
+,Cefuroxime,Cephalosporins (2G),Antimicrobial,FALSE
+,Cefovecin,Cephalosporins (3G),Antimicrobial,FALSE
+,Ceftazidime,Cephalosporins (3G),Antimicrobial,FALSE
+,Ceftiofur,Cephalosporins (3G),Antimicrobial,FALSE
+,Ceftriaxone,Cephalosporins (3G),Antimicrobial,FALSE
+,Clindamycin,Lincosamides,Antimicrobial,FALSE
+,Lincomycin,Lincosamides,Antimicrobial,FALSE
+,Azithromycin,Macrolides,Antimicrobial,FALSE
+,Clarithromycin,Macrolides,Antimicrobial,FALSE
+,Erythromycin,Macrolides,Antimicrobial,FALSE
+,Tylosin,Macrolides,Antimicrobial,FALSE
+,Nitrofurantoin,Nitrofurans,Antimicrobial,FALSE
+,Metronidazole,Nitroimidazoles,Antimicrobial,FALSE
+,Metronidazole & Spiramycin,Nitroimidazoles,Antimicrobial,FALSE
+,Ronidazole,Nitroimidazoles,Antimicrobial,FALSE
+,Amoxicillin & Clavulanic Acid,Penicillins (aminopenicillins with beta-lactamase inhibitors),Antimicrobial,FALSE
+,Amoxicillin,Penicillins (aminopenicillins),Antimicrobial,FALSE
+,Ampicillin,Penicillins (aminopenicillins),Antimicrobial,FALSE
+,Cloxacillin,Penicillins (antistaphylococcal),Antimicrobial,FALSE
+,Procaine Benzylpenicillin,Penicillins (narrow spectrum),Antimicrobial,FALSE
+,Penicillin G,Penicillins (narrow spectrum),Antimicrobial,FALSE
+,Penicillin V,Penicillins (narrow spectrum),Antimicrobial,FALSE
+,Colistin,Polymixins,Antimicrobial,FALSE
+,Polymyxin B,Polymixins,Antimicrobial,FALSE
+,Mupirocin,Pseudomonic acids,Antimicrobial,FALSE
+,Ciprofloxacin,Quinolones,Antimicrobial,FALSE
+,Enrofloxacin,Quinolones,Antimicrobial,FALSE
+,Marbofloxacin,Quinolones,Antimicrobial,FALSE
+,Ofloxacin,Quinolones,Antimicrobial,FALSE
+,Orbifloxacin,Quinolones,Antimicrobial,FALSE
+,Pradofloxacin,Quinolones,Antimicrobial,FALSE
+,Fusidic Acid,Steroid antibacterials,Antimicrobial,FALSE
+,Sulfadiazine,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
+,Sulfadiazine & Trimethoprim,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
+,Sulfamethoxazole & Trimethoprim,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
+,Chlortetracycline,Tetracyclines,Antimicrobial,FALSE
+,Doxycycline,Tetracyclines,Antimicrobial,FALSE
+,Oxytetracycline,Tetracyclines,Antimicrobial,FALSE
+,Tetracycline,Tetracyclines,Antimicrobial,FALSE
+,Chlorhexidine,Antiseptic,Antiseptic,FALSE
+,Chloramine-T,Antiseptic,Antiseptic,FALSE
+,Hydrous Benzoyl Peroxide,Antiseptic,Antiseptic,FALSE
+,Chlorocresol,Antiseptic,Antiseptic,FALSE
+,Zinc Oxide,Antiseptic,Antiseptic,FALSE
+,Phenoxyethanol,Antiseptic,Antiseptic,FALSE
+,Lidocaine,Amino amide,Local anaesthetic,FALSE
+,"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",,,TRUE
+,"Dihydrostreptomycin, Procaine Benzylpenicillin",,,TRUE
+,"Neomycin, Procaine Benzylpenicillin",,,TRUE
+,Ketoconazole,Azoles,Antimycotic,FALSE
+,Clotrimazole,Azoles,Antimycotic,FALSE
+,Enilconazole,Azoles,Antimycotic,FALSE
+,Itraconazole,Azoles,Antimycotic,FALSE
+,Miconazole,Azoles,Antimycotic,FALSE
+,Posaconazole,Azoles,Antimycotic,FALSE
+,Terbinafine,Allylamines,Antimycotic,FALSE
+,Nystatin,Polyenes,Antimycotic,FALSE
+,"Chlorhexidine, Miconazole",,,TRUE
+,Betamethasone,Corticosteroid,Anti Inflammatory,FALSE
+,Prednisolone,Corticosteroid,Anti Inflammatory,FALSE
+,Hydrocortisone,Corticosteroid,Anti Inflammatory,FALSE
+,"Fusidic Acid, Betamethasone",,,TRUE
+,Dexamethadone,Corticosteroid,Anti Inflammatory,FALSE
+,Mometasone,Corticosteroid,Anti Inflammatory,FALSE
+,"Polymyxin B, Prednisolone, Miconazole",,,TRUE
+,"Marbofloxacin, Dexamethasone, Clotrimazole",,,TRUE
+,"Fusidic Acid, Framycetin, Prednisolone, Nystatin",,,TRUE
+,"Gentamicin, Hydrocortisone, Miconazole",,,TRUE
+,"Marbofloxacin, Prednisolone, Ketoconazole",,,TRUE
+,"Florfenicol, Mometasone, Terbinafine",,,TRUE
+,"Florfenicol, Betamethasone, Terbinafine",,,TRUE
+,"Gentamicin, Betamethasone, Clotrimazole",,,TRUE
+,"Orbifloxacin, Mometasone, Posaconazole",,,TRUE
