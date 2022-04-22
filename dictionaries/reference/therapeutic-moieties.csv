@@ -71,12 +71,12 @@ id,name,class,family,combination
 ,Terbinafine,Allylamines,Antimycotic,FALSE
 ,Nystatin,Polyenes,Antimycotic,FALSE
 ,"Chlorhexidine, Miconazole",,,TRUE
-,Betamethasone,Corticosteroid,Anti Inflammatory,FALSE
-,Prednisolone,Corticosteroid,Anti Inflammatory,FALSE
-,Hydrocortisone,Corticosteroid,Anti Inflammatory,FALSE
+,Betamethasone,Corticosteroid,Anti-inflammatory,FALSE
+,Prednisolone,Corticosteroid,Anti-inflammatory,FALSE
+,Hydrocortisone,Corticosteroid,Anti-inflammatory,FALSE
 ,"Fusidic Acid, Betamethasone",,,TRUE
-,Dexamethadone,Corticosteroid,Anti Inflammatory,FALSE
-,Mometasone,Corticosteroid,Anti Inflammatory,FALSE
+,Dexamethadone,Corticosteroid,Anti-inflammatory,FALSE
+,Mometasone,Corticosteroid,Anti-inflammatory,FALSE
 ,"Polymyxin B, Prednisolone, Miconazole",,,TRUE
 ,"Marbofloxacin, Dexamethasone, Clotrimazole",,,TRUE
 ,"Fusidic Acid, Framycetin, Prednisolone, Nystatin",,,TRUE
