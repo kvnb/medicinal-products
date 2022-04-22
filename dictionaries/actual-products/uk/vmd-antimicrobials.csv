@@ -121,10 +121,10 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Orbenin Ophthalmic Ointment 16.67% w/w Eye Ointment,Cloxacillin Ointment,,,,,POM-V,N
 ,Pen & Strep Suspension for Injection,"Dihydrostreptomycin, Procaine Benzylpenicillin Suspension for Injection",,,,,POM-V,N
 ,Streptacare Suspension for Injection,"Dihydrostreptomycin, Procaine Benzylpenicillin Suspension for Injection",,,,,POM-V,N
-,Doxybactin 200 mg Tablets for Dogs ,Doxycycline Tablets,200,mg,,,POM-V,N
-,Doxybactin 400 mg Tablets for Dogs ,Doxycycline Tablets,400,mg,,,POM-V,N
-,Doxybactin 50 mg Tablets for Dogs and Cats ,Doxycycline Tablets,50,mg,,,POM-V,N
-,Doxycare Flavour 200 mg Tablets for Cats and Dogs ,Doxycycline Tablets,200,mg,,,POM-V,N
+,Doxybactin 200 mg Tablets for Dogs,Doxycycline Tablets,200,mg,,,POM-V,N
+,Doxybactin 400 mg Tablets for Dogs,Doxycycline Tablets,400,mg,,,POM-V,N
+,Doxybactin 50 mg Tablets for Dogs and Cats,Doxycycline Tablets,50,mg,,,POM-V,N
+,Doxycare Flavour 200 mg Tablets for Cats and Dogs,Doxycycline Tablets,200,mg,,,POM-V,N
 ,Doxycare Flavour 40 mg Tablets for Cats and Dogs,Doxycycline Tablets,40,mg,,,POM-V,N
 ,Doxytab vet. 15 mg Tablets for Dogs and Cats,Doxycycline Tablets,15,mg,,,POM-V,N
 ,Doxytab vet. 200 mg Tablets for Dogs,Doxycycline Tablets,200,mg,,,POM-V,N
@@ -133,8 +133,10 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Ronaxan 100 mg Tablets for Dogs and Cats,Doxycycline Tablets,100,mg,,,POM-V,N
 ,Ronaxan 20 mg Tablets for Dogs and Cats,Doxycycline Tablets,20,mg,,,POM-V,N
 ,Baytril 2.5% Oral Solution,Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
+,Baytril 10% Oral Solution,Enrofloxacin Liquid,100,mg,1,ml,POM-V,N
 ,Baytril 25 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,25,mg,1,ml,POM-V,N
 ,Baytril 50 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,50,mg,1,ml,POM-V,N
+,Baytril 100 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,100,mg,1,ml,POM-V,N
 ,Baytril Flavour Tablets 15 mg,Enrofloxacin Tablets,15,mg,,,POM-V,N
 ,Baytril Flavour Tablets 150 mg,Enrofloxacin Tablets,150,mg,,,POM-V,N
 ,Baytril Flavour Tablets 50 mg,Enrofloxacin Tablets,50,mg,,,POM-V,N
@@ -171,14 +173,15 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Efex 10 mg Chewable Tablets for Cats and Dogs,Marbofloxacin Tablets,10,mg,,,POM-V,N
 ,Efex 100 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,100,mg,,,POM-V,N
 ,Efex 40 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,40,mg,,,POM-V,N
-,Marbocare Flavour 20 mg Tablets for Dogs ,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Marbocare Flavour 20 mg Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
 ,Marbocare Flavour 5 mg Tablets for Dogs and Cats,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Marbocare Flavour 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Marbocyl 10% Solution for Injection,Marbofloxacin Solution for Injection,100,mg,1,ml,POM-V,N
 ,Marbocyl 2% Solution for Injection,Marbofloxacin Solution for Injection,20,mg,1,ml,POM-V,N
 ,Marbocyl P 20 mg Tablet,Marbofloxacin Tablets,20,mg,,,POM-V,N
 ,Marbocyl P 5 mg Tablet,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Marbocyl P 80 mg Tablet,Marbofloxacin Tablets,80,mg,,,POM-V,N
-,Marbocyl SA 200 mg Powder and Solvent for Solution for Injection,Marbofloxacin Solution for Injection,,,,,POM-V,N
+,Marbocyl SA 200 mg Powder and Solvent for Solution for Injection,Marbofloxacin Solution for Injection,10,mg,1,ml,POM-V,N
 ,Marfloquin 20 mg Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
 ,Marfloquin 5 mg Tablets for Cats and Dogs,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Marfloquin 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
@@ -205,6 +208,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Stomorgyl 20 Film-coated Tablets,Metronidazole & Spiramycin Tablets,,,,,POM-V,N
 ,Neopen Suspension for Injection,"Neomycin, Procaine Benzylpenicillin Suspension for Injection",,,,,POM-V,N
 ,Engemycin 10% DD Solution for Injection,Oxytetracycline Solution for Injection,100,mg,1,ml,POM-V,N
+,"Engemycin Spray, 25 mg/ml, Cutaneous Spray, Suspension for Cattle, Sheep and Pigs",Oxytetracycline Spray,,,,,POM-V,N
 ,"Oxtra DD 100 mg/ml Solution for Injection for Cattle, Sheep, Pigs, Horses, Dogs and Cats",Oxytetracycline Solution for Injection,100,mg,1,ml,POM-V,N
 ,Oxycare Tablets 250 mg,Oxytetracycline Tablets,250,mg,,,POM-V,N
 ,Tetroxy L.A. 200 mg/ml Oxytetracycline Solution for Injection,Oxytetracycline LA Solution for Injection,200,mg,1,ml,POM-V,N
