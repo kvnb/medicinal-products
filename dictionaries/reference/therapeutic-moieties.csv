@@ -33,6 +33,7 @@ id,name,class,family,combination
 ,Procaine Benzylpenicillin,Penicillins (narrow spectrum),Antimicrobial,FALSE
 ,Penicillin G,Penicillins (narrow spectrum),Antimicrobial,FALSE
 ,Penicillin V,Penicillins (narrow spectrum),Antimicrobial,FALSE
+,"Penicillin G, Procaine Benzylpenicillin",,,TRUE
 ,Colistin,Polymixins,Antimicrobial,FALSE
 ,Polymyxin B,Polymixins,Antimicrobial,FALSE
 ,Mupirocin,Pseudomonic acids,Antimicrobial,FALSE
@@ -59,6 +60,7 @@ id,name,class,family,combination
 ,Lidocaine,Amino amide,Local anaesthetic,FALSE
 ,"Chlorocresol, Lidocaine Hydrochloride, Phenoxyethanol, Zinc Oxide",,,TRUE
 ,"Dihydrostreptomycin, Procaine Benzylpenicillin",,,TRUE
+,"Dihydrostreptomycin, Streptomycin",,,TRUE
 ,"Neomycin, Procaine Benzylpenicillin",,,TRUE
 ,Ketoconazole,Azoles,Antimycotic,FALSE
 ,Clotrimazole,Azoles,Antimycotic,FALSE

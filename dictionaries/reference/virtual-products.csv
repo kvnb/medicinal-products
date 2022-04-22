@@ -11,6 +11,7 @@ id,name,moiety,form,route
 ,Amoxicillin & Clavulanic Acid Tablets,Amoxicillin & Clavulanic Acid,Tablet,Oral
 ,Amoxicillin & Clavulanic Acid Suspension for Injection,Amoxicillin & Clavulanic Acid,Suspension for Injection,Injectable
 ,Amoxicillin & Clavulanic Acid Liquid,Amoxicillin & Clavulanic Acid,Liquid,Oral
+,Ampicillin Suspension for Injection,Ampicillin,Suspension for Injection,Injectable
 ,Ampicillin LA Suspension for Injection,Ampicillin,LA Suspension for Injection,Injectable
 ,Ampicillin Capsules,Ampicillin,Capsule,Oral
 ,Cefalexin Tablets,Cefalexin,Tablet,Oral
@@ -24,6 +25,7 @@ id,name,moiety,form,route
 ,Clindamycin Liquid,Clindamycin,Liquid,Oral
 ,Cloxacillin Ointment,Cloxacillin,Ointment,Topical
 ,"Dihydrostreptomycin, Procaine Benzylpenicillin Suspension for Injection","Dihydrostreptomycin, Procaine Benzylpenicillin",Suspension for Injection,Injectable
+,"Dihydrostreptomycin, Streptomycin Solution for Injection","Dihydrostreptomycin, Streptomycin",Solution for Injection,Injectable
 ,Doxycycline Tablets,Doxycycline,Tablet,Oral
 ,Enrofloxacin Liquid,Enrofloxacin,Liquid,Oral
 ,Enrofloxacin Solution for Injection,Enrofloxacin,Solution for Injection,Injectable
@@ -37,12 +39,14 @@ id,name,moiety,form,route
 ,Metronidazole Tablets,Metronidazole,Tablet,Oral
 ,Metronidazole & Spiramycin Tablets,Metronidazole & Spiramycin,Tablet,Oral
 ,"Neomycin, Procaine Benzylpenicillin Suspension for Injection","Neomycin, Procaine Benzylpenicillin",Suspension for Injection,Injectable
+,Orbifloxacin Liquid,Orbifloxacin,Liquid,Oral
 ,Oxytetracycline Solution for Injection,Oxytetracycline,Solution for Injection,Injectable
 ,Oxytetracycline Tablets,Oxytetracycline,Tablet,Oral
 ,Oxytetracycline LA Solution for Injection,Oxytetracycline,LA Solution for Injection,Injectable
 ,Pradofloxacin Tablets,Pradofloxacin,Tablet,Oral
 ,Pradofloxacin Liquid,Pradofloxacin,Liquid,Oral
 ,Procaine Benzylpenicillin Suspension for Injection,Procaine Benzylpenicillin,Suspension for Injection,Injectable
+,Streptomycin Solution for Injection,Streptomycin,Solution for Injection,Injectable
 ,Sulfadiazine & Trimethoprim Solution for Injection,Sulfadiazine & Trimethoprim,Solution for Injection,Injectable
 ,Sulfadiazine & Trimethoprim Tablets,Sulfadiazine & Trimethoprim,Tablet,Oral
 ,Sulfamethoxazole & Trimethoprim Liquid,Sulfamethoxazole & Trimethoprim,Liquid,Oral
@@ -62,3 +66,4 @@ id,name,moiety,form,route
 ,"Florfenicol, Betamethasone, Terbinafine Topical Suspension","Florfenicol, Betamethasone, Terbinafine",Topical Suspension,Topical
 ,"Gentamicin, Betamethasone, Clotrimazole Topical Suspension","Gentamicin, Betamethasone, Clotrimazole",Topical Suspension,Topical
 ,"Orbifloxacin, Mometasone, Posaconazole Topical Suspension","Orbifloxacin, Mometasone, Posaconazole",Topical Suspension,Topical
+,"Penicillin G, Procaine Benzylpenicillin LA Suspension for Injection","Penicillin G, Procaine Benzylpenicillin",LA Suspension for Injection,Injectable

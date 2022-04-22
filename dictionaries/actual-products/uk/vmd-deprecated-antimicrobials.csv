@@ -1,0 +1,60 @@
+id,name,product,SVN,SVNU,SVD,SVDU,category,CD
+,Betamox 40 mg Palatable Tablets,Amoxicillin Tablets,40,mg,,,POM-V,N
+,Betamox 200 mg Palatable Tablets,Amoxicillin Tablets,200,mg,,,POM-V,N
+,Amoxycare 40 mg Tablets,Amoxicillin Tablets,40,mg,,,POM-V,N
+,Amoxycare 200 mg Tablets,Amoxicillin Tablets,200,mg,,,POM-V,N
+,Duphamox LA 150 mg/ml Suspension for Injection,Amoxicillin LA Suspension for Injection,150,mg,1,ml,POM-V,N
+,Combimox Injection Suspension for Injection,Amoxicillin & Clavulanic Acid Suspension for Injection,,,,,POM-V,N
+,Noroclav 50 mg Chewable Flavoured Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
+,Noroclav 250 mg Chewable Flavoured Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,250,mg,,,POM-V,N
+,Noroclav 500 mg Chewable Flavoured Tablets for Dogs ,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
+,Noroclav 75 mg Chewable Flavoured Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,75,mg,,,POM-V,N
+,Twinox 40 mg/10 mg Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
+,Twinox 200 mg/50 mg Tablets for Dogs,Amoxicillin & Clavulanic Acid Tablets,250,mg,,,POM-V,N
+,Twinox 400 mg/100 mg Tablets for Dogs ,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
+,Norobrittin 15% w/v Suspension for Injection,Ampicillin Suspension for Injection,150,mg,1,ml,POM-V,N
+,Norocillin LA Suspension for Injection ,"Penicillin G, Procaine Benzylpenicillin LA Suspension for Injection",,,,,POM-V,N
+,Cefaseptin 120 mg Film-coated Tablets,Cefalexin Tablets,120,mg,,,POM-V,N
+,Cefaseptin 600 mg Film-coated Tablets for Dogs,Cefalexin Tablets,600,mg,,,POM-V,N
+,Veterinary Wound Powder - 2% w/w Cutaneous Powder,Chloramine T Cutaneous Powder,,,,,AVM-GSL,N
+,Clindacyl 75 mg Tablets,Clindamycin Tablets,75,mg,,,POM-V,N
+,Clindacyl 150 mg Tablets,Clindamycin Tablets,150,mg,,,POM-V,N
+,Clindacyl 25 mg Tablets,Clindamycin Tablets,25,mg,,,POM-V,N
+,Clindacyl 300 mg Tablets,Clindamycin Tablets,300,mg,,,POM-V,N
+,"NorOtic Ear Drops, Suspension for Dogs","Marbofloxacin, Dexamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
+,Devomycin D Solution for Injection,"Dihydrostreptomycin, Streptomycin Solution for Injection",,,,,POM-V,N
+,Baytril Flavour 25 mg/ml Oral Suspension for Cat,Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
+,Zobuxa 15 mg Tablets for Cats and Small Dogs,Enrofloxacin Tablets,15,mg,,,POM-V,N
+,Zobuxa 50 mg Tablets for Cats and Dogs,Enrofloxacin Tablets,50,mg,,,POM-V,N
+,Zobuxa 100 mg Tablets for Dogs,Enrofloxacin Tablets,100,mg,,,POM-V,N
+,Zobuxa 150 mg Tablets for Dogs,Enrofloxacin Tablets,150,mg,,,POM-V,N
+,"Powerflox 50 mg/ml Solution for Injection for Cattle, Pigs, Dogs and Cats",Enrofloxacin Liquid,50,mg,1,ml,POM-V,N
+,"Clinagel-Vet, Gentamicin 0.30% w/w Eye Gel",Gentamicin Gel,,,,,POM-V,N
+,Ubiflox 5 mg Tablets for Cats and Dogs,Marbofloxacin Tablets,5,mg,,,POM-V,N
+,Ubiflox 20 mg Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Ubiflox 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Softiflox 5 mg Flavoured Chewable Tablets for Cats and Dogs,Marbofloxacin Tablets,5,mg,,,POM-V,N
+,Softiflox 20 mg Flavoured Chewable Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Softiflox 80 mg Flavoured Chewable Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Marbotab P 20 mg Tablets for Dogs and Cats,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Marbotab P 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Actimarbo 5 mg Flavoured Tablets for Dogs and Cats,Marbofloxacin Tablets,5,mg,,,POM-V,N
+,Actimarbo 20 mg Flavoured Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Actimarbo 80 mg Flavoured Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Marboxidin 5 mg Chewable Tablets for Dogs and Cats,Marbofloxacin Tablets,5,mg,,,POM-V,N
+,Marboxidin 20 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Marboxidin 80 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
+,Boflox Flavour 20 mg Tablets for Dogs and Cats,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Orbax Flavoured Oral Suspension 30 mg/ml for Dogs and Cats,Orbifloxacin Liquid,30,mg,1,ml,POM-V,N
+,Oxytetrin 20 LA 200 mg/ml Solution for Injection,Oxytetracycline LA Solution for Injection,200,mg,1,ml,POM-V,N
+,Oxycare Tablets 50 mg,Oxytetracycline Tablets,50,mg,,,POM-V,N
+,Oxycare Tablets 100 mg,Oxytetracycline Tablets,100,mg,,,POM-V,N
+,Devomycin 250 mg/ml Solution for Injection,Streptomycin Solution for Injection,250,mg,1,ml,POM-V,N
+,Norodine 80 Tablets,Sulfadiazine & Trimethoprim Tablets,480,mg,,,POM-V,N
+,Norodine 20 Coated Tablets,Sulfadiazine & Trimethoprim Tablets,120,mg,,,POM-V,N
+,Trimacare 20 Tablets,Sulfadiazine & Trimethoprim Tablets,120,mg,,,POM-V,N
+,Trimacare 80 Tablets for Dogs,Sulfadiazine & Trimethoprim Tablets,480,mg,,,POM-V,N
+,Co Trimazine Tablets 480 mg,Sulfadiazine & Trimethoprim Tablets,480,mg,,,POM-V,N
+,Norotyl LA 15% w/v Suspension for Injection,Tylosin Solution for Injection,150,mg,1,ml,POM-V,N
+,"Tyluvet 20% w/v, Solution for Injection",Tylosin Solution for Injection,200,mg,1,ml,POM-V,N
+,"Tylan 200, 200 mg/ml Solution for Injection",Tylosin Solution for Injection,200,mg,1,ml,POM-V,N
