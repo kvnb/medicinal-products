@@ -23,7 +23,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Clamoxyl Ready-To-Use 150 mg/ml Suspension for Injection,Amoxicillin Suspension for Injection,150,mg,1,ml,POM-V,N
 ,Duphamox 150 mg/ml Suspension for Injection,Amoxicillin Suspension for Injection,150,mg,1,ml,POM-V,N
 ,"Trymox LA 150 mg/ml Suspension for Injection for Cattle, Sheep, Pigs, Dogs, Cats",Amoxicillin LA Suspension for Injection,150,mg,1,ml,POM-V,N
-,Vetrimoxin L.A. 150 mg/ml Suspension for Injection for Cattle and Pigs ,Amoxicillin LA Suspension for Injection,150,mg,1,ml,POM-V,N
+,Vetrimoxin L.A. 150 mg/ml Suspension for Injection for Cattle and Pigs,Amoxicillin LA Suspension for Injection,150,mg,1,ml,POM-V,N
 ,Cladaxxa 200 mg/50 mg Chewable Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,250,mg,,,POM-V,N
 ,Cladaxxa 40 mg/10 mg Chewable Tablets for Cats and Dogs,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
 ,Cladaxxa 400 mg/100 mg Chewable Tablets for Dogs,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
@@ -71,7 +71,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Cefaseptin 300 mg Tablets for Dogs,Cefalexin Tablets,300,mg,,,POM-V,N
 ,Cefaseptin 75 mg Tablets for Dogs and Cats,Cefalexin Tablets,75,mg,,,POM-V,N
 ,Cefaseptin 750 mg Tablets for Dogs,Cefalexin Tablets,750,mg,,,POM-V,N
-,Cephacare Flavour 1000 mg Tablets for Dogs ,Cefalexin Tablets,1000,mg,,,POM-V,N
+,Cephacare Flavour 1000 mg Tablets for Dogs,Cefalexin Tablets,1000,mg,,,POM-V,N
 ,Cephacare Flavour 250 mg Tablets for Dogs,Cefalexin Tablets,250,mg,,,POM-V,N
 ,Cephacare Flavour 50 mg Tablets for Cats and Dogs,Cefalexin Tablets,50,mg,,,POM-V,N
 ,Cephacare Flavour 500 mg Tablets for Dogs,Cefalexin Tablets,500,mg,,,POM-V,N
@@ -91,7 +91,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Tsefalen 500 mg Film-coated Tablets for Dogs,Cefalexin Tablets,500,mg,,,POM-V,N
 ,Tsefalen 50mg/ml Powder for Oral Suspension for Dogs up to 20 kg and Cats,Cefalexin Liquid,50,mg,1,ml,POM-V,N
 ,Convenia 80 mg/ml Powder and Solvent for Solution for Injection for Dogs and Cats,Cefovecin Solution for Injection,80,mg,1,ml,POM-V,N
-,"Ophtocycline 10 mg/g Eye Ointment for Dogs, Cats and Horses  ",Chlortetracycline Ointment,10,mg,1,g,POM-V,N
+,"Ophtocycline 10 mg/g Eye Ointment for Dogs, Cats and Horses",Chlortetracycline Ointment,10,mg,1,g,POM-V,N
 ,Antirobe Capsules 150 mg,Clindamycin Capsules,150,mg,,,POM-V,N
 ,Antirobe Capsules 25 mg,Clindamycin Capsules,25,mg,,,POM-V,N
 ,Antirobe Capsules 300 mg,Clindamycin Capsules,300,mg,,,POM-V,N
@@ -100,9 +100,9 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Clinacin 25 mg Tablets,Clindamycin Tablets,25,mg,,,POM-V,N
 ,Clinacin 300 mg Tablets for Dogs,Clindamycin Tablets,300,mg,,,POM-V,N
 ,Clinacin 75 mg Tablets,Clindamycin Tablets,75,mg,,,POM-V,N
-,Clindabactin 220 mg Chewable Tablets for Dogs ,Clindamycin Tablets,220,mg,,,POM-V,N
-,Clindabactin 440 mg Chewable Tablets for Dogs ,Clindamycin Tablets,440,mg,,,POM-V,N
-,Clindabactin 55 mg Chewable Tablets for Dogs and Cats ,Clindamycin Tablets,55,mg,,,POM-V,N
+,Clindabactin 220 mg Chewable Tablets for Dogs,Clindamycin Tablets,220,mg,,,POM-V,N
+,Clindabactin 440 mg Chewable Tablets for Dogs,Clindamycin Tablets,440,mg,,,POM-V,N
+,Clindabactin 55 mg Chewable Tablets for Dogs and Cats,Clindamycin Tablets,55,mg,,,POM-V,N
 ,Clindacutin 10 mg/g Ointment for Dogs,Clindamycin Ointment,10,mg,1,g,POM-V,N
 ,Clindaseptin 150 mg Capsules for Dogs,Clindamycin Capsules,150,mg,,,POM-V,N
 ,Clindaseptin 25 mg Capsules for Dogs,Clindamycin Capsules,25,mg,,,POM-V,N
@@ -144,7 +144,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,"Enrocare 25 mg/ml Concentrate for Oral Solution for Pet Rabbits, Rodents, Ornamental Birds and Reptiles",Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
 ,"Enrocare 25 mg/ml Solution for Injection for Dogs, Cats, Rabbits, Rodents, Reptiles and Ornamental birds",Enrofloxacin Solution for Injection,25,mg,1,ml,POM-V,N
 ,"Enrocare 50 mg/ml Solution for Injection for Cattle, Pigs, Dogs and Cats",Enrofloxacin Solution for Injection,50,mg,1,ml,POM-V,N
-,Enrocat Flavour 25 mg/ml Oral Suspension for Cats ,Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
+,Enrocat Flavour 25 mg/ml Oral Suspension for Cats,Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
 ,Enrocin Flavoured Tablets 15 mg,Enrofloxacin Tablets,15,mg,,,POM-V,N
 ,Enrocin Flavoured Tablets 150 mg,Enrofloxacin Tablets,150,mg,,,POM-V,N
 ,Enrocin Flavoured Tablets 50 mg,Enrofloxacin Tablets,50,mg,,,POM-V,N
@@ -160,7 +160,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Floxabactin 15 mg Tablets for Cats and Dogs,Enrofloxacin Tablets,15,mg,,,POM-V,N
 ,Floxabactin 150 mg Tablets for Dogs,Enrofloxacin Tablets,150,mg,,,POM-V,N
 ,Floxabactin 50 mg Tablets for Dogs,Enrofloxacin Tablets,50,mg,,,POM-V,N
-,"Valemas 50 mg/ml Solution for Injection for Cattle, Sheep, Goats, Pigs, Dogs and Cats ",Enrofloxacin Solution for Injection,50,mg,1,ml,POM-V,N
+,"Valemas 50 mg/ml Solution for Injection for Cattle, Sheep, Goats, Pigs, Dogs and Cats",Enrofloxacin Solution for Injection,50,mg,1,ml,POM-V,N
 ,Xeden 15 mg Tablet for Cats,Enrofloxacin Tablets,15,mg,,,POM-V,N
 ,Xeden 150 mg Tablet for Dogs,Enrofloxacin Tablets,150,mg,,,POM-V,N
 ,Xeden 200 mg Tablet for Dogs,Enrofloxacin Tablets,200,mg,,,POM-V,N
@@ -192,17 +192,17 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Eradia 125 mg/ml Oral Suspension for Dogs,Metronidazole Liquid,125,mg,1,ml,POM-V,N
 ,Metrobactin 250 mg Tablets for Dogs and Cats,Metronidazole Tablets,250,mg,,,POM-V,N
 ,Metrobactin 500 mg Tablets for Dogs and Cats,Metronidazole Tablets,500,mg,,,POM-V,N
-,Metrocare Flavour 250 mg Tablets for Dogs and Cats ,Metronidazole Tablets,250,mg,,,POM-V,N
-,Metrocare Flavour 500 mg Tablets for Dogs and Cats ,Metronidazole Tablets,500,mg,,,POM-V,N
+,Metrocare Flavour 250 mg Tablets for Dogs and Cats,Metronidazole Tablets,250,mg,,,POM-V,N
+,Metrocare Flavour 500 mg Tablets for Dogs and Cats,Metronidazole Tablets,500,mg,,,POM-V,N
 ,Metrotab Vet. Flavoured 1000 mg Tablets for Dogs,Metronidazole Tablets,1000,mg,,,POM-V,N
 ,Metrotab Vet. Flavoured 250 mg Tablets for Dogs and Cats,Metronidazole Tablets,250,mg,,,POM-V,N
-,Metrotab Vet. Flavoured 500 mg Tablets for Dogs and Cats ,Metronidazole Tablets,500,mg,,,POM-V,N
+,Metrotab Vet. Flavoured 500 mg Tablets for Dogs and Cats,Metronidazole Tablets,500,mg,,,POM-V,N
 ,Metrovis 100 mg Tablets for Dogs and Cats,Metronidazole Tablets,100,mg,,,POM-V,N
 ,Metrovis 250 mg Tablets for Dogs and Cats,Metronidazole Tablets,250,mg,,,POM-V,N
 ,Metrovis 750 mg Tablets for Dogs,Metronidazole Tablets,750,mg,,,POM-V,N
-,"Spizobactin 1,500,000 IU / 250 mg Chewable Tablets for Dogs ",Metronidazole & Spiramycin Tablets,,,,,POM-V,N
+,"Spizobactin 1,500,000 IU / 250 mg Chewable Tablets for Dogs",Metronidazole & Spiramycin Tablets,,,,,POM-V,N
 ,"Spizobactin 3,000,000 IU / 500 mg Chewable Tablets for Dogs",Metronidazole & Spiramycin Tablets,,,,,POM-V,N
-,"Spizobactin 750,000 IU / 125 mg Chewable Tablets for Dogs ",Metronidazole & Spiramycin Tablets,,,,,POM-V,N
+,"Spizobactin 750,000 IU / 125 mg Chewable Tablets for Dogs",Metronidazole & Spiramycin Tablets,,,,,POM-V,N
 ,Stomorgyl 10 Film-coated Tablets,Metronidazole & Spiramycin Tablets,,,,,POM-V,N
 ,Stomorgyl 2 Film-coated Tablets,Metronidazole & Spiramycin Tablets,,,,,POM-V,N
 ,Stomorgyl 20 Film-coated Tablets,Metronidazole & Spiramycin Tablets,,,,,POM-V,N
@@ -223,7 +223,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Trimacare 24% Solution for Injection,Sulfadiazine & Trimethoprim Solution for Injection,240,mg,1,ml,POM-V,N
 ,Trimedoxine 80 Tablets,Sulfadiazine & Trimethoprim Tablets,480,mg,,,POM-V,N
 ,Sulfatrim (16 mg/ml + 80 mg/ml) Oral Drops,Sulfamethoxazole & Trimethoprim Liquid,96,mg,1,ml,POM-V,N
-,"Tylan 200, 200 mg/ml Solution for Injection ",Tylosin Solution for Injection,200,mg,1,ml,POM-V,N
+,"Tylan 200, 200 mg/ml Solution for Injection",Tylosin Solution for Injection,200,mg,1,ml,POM-V,N
 ,Tylan Soluble Powder for Oral Solution,Tylosin Liquid,,,,,POM-V,N
 ,Catzol 10 mg/ml Oral Solution for Cats,Itraconazole Liquid,10,mg,1,ml,POM-V,N
 ,Fungiconazol 200 mg Tablets for Dogs,Ketoconazole Tablets,200,mg,,,POM-V,N
@@ -238,16 +238,16 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Isaderm 5 mg/g + 1 mg/g Gel for Dogs,"Fusidic Acid, Betamethasone Gel",,,,,POM-V,N
 ,"Trigoderm Gel 0.5% w/w Fusidic Acid, 0.1% w/w Betamethasone","Fusidic Acid, Betamethasone Gel",,,,,POM-V,N
 ,Aurimic Ear Drops and Cutaneous Suspension for Dogs and Cats,"Polymyxin B, Prednisolone, Miconazole Topical Suspension",,,,,POM-V,N
-,Auriotic Ear Drops and Cutaneous Suspension for Dogs and Cats ,"Polymyxin B, Prednisolone, Miconazole Topical Suspension",,,,,POM-V,N
+,Auriotic Ear Drops and Cutaneous Suspension for Dogs and Cats,"Polymyxin B, Prednisolone, Miconazole Topical Suspension",,,,,POM-V,N
 ,"Aurizon Ear Drops, Suspension","Marbofloxacin, Dexamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
 ,"Canaural Ear Drops, Suspension for Dogs and Cats","Fusidic Acid, Framycetin, Prednisolone, Nystatin Topical Suspension",,,,,POM-V,N
 ,"Easotic, Ear Drops Suspension for Dogs - Multidose","Gentamicin, Hydrocortisone, Miconazole Topical Suspension",,,,,POM-V,N
 ,"Easotic, Ear Drops Suspension for Dogs - Single Dose","Gentamicin, Hydrocortisone, Miconazole Topical Suspension",,,,,POM-V,N
-,Gefriderm Cutaneous Spray Solution for Dogs ,"Marbofloxacin, Prednisolone, Ketoconazole Topical Suspension",,,,,POM-V,N
+,Gefriderm Cutaneous Spray Solution for Dogs,"Marbofloxacin, Prednisolone, Ketoconazole Topical Suspension",,,,,POM-V,N
 ,"Marbodex Aural Ear Drops, Suspension for Dogs","Marbofloxacin, Dexamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
 ,Neptra,"Florfenicol, Mometasone, Terbinafine Topical Suspension",,,,,POM-V,N
 ,Osurnia Ear Gel for Dogs,"Florfenicol, Betamethasone, Terbinafine Topical Suspension",,,,,POM-V,N
-,Otomax Ear Drops Suspension ,"Gentamicin, Betamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
+,Otomax Ear Drops Suspension,"Gentamicin, Betamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
 ,"Otoxolan Ear Drops, Suspension for Dogs","Marbofloxacin, Dexamethasone, Clotrimazole Topical Suspension",,,,,POM-V,N
 ,"Posatex, Ear Drops Suspension for Dogs","Orbifloxacin, Mometasone, Posaconazole Topical Suspension",,,,,POM-V,N
 ,Surolan Ear Drops and Cutaneous Suspension,"Polymyxin B, Prednisolone, Miconazole Topical Suspension",,,,,POM-V,N
