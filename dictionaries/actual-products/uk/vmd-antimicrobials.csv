@@ -57,10 +57,11 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Synuclav 50 mg Tablets for Dogs and Cats,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
 ,Synuclav Palatable Tablets 500 mg for Dogs,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
 ,Synuclav Suspension for Injection,Amoxicillin & Clavulanic Acid Suspension for Injection,,,,,POM-V,N
-,"Synulox Palatable Drops, Powder for Oral Suspension",Amoxicillin & Clavulanic Acid Liquid,,,,,POM-V,N
+,"Synulox Palatable Drops, Powder for Oral Suspension",Amoxicillin & Clavulanic Acid Liquid,50,mg,1,ml,POM-V,N
 ,Synulox Palatable Tablets 250 mg,Amoxicillin & Clavulanic Acid Tablets,250,mg,,,POM-V,N
 ,Synulox Palatable Tablets 50 mg,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
 ,Synulox Palatable Tablets 500 mg,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
+,Synulox Bolus 500 mg Film-Coated Tablets,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
 ,Synulox Ready-to-Use Suspension for Injection,Amoxicillin & Clavulanic Acid Suspension for Injection,,,,,POM-V,N
 ,Amfipen LA 100 mg/ml Suspension for Injection,Ampicillin LA Suspension for Injection,100,mg,1,ml,POM-V,N
 ,Ampicare 250 mg Hard Capsules,Ampicillin Capsules,250,mg,,,POM-V,N
@@ -186,6 +187,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Marfloquin 5 mg Tablets for Cats and Dogs,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Marfloquin 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
 ,Quiflor 20 mg Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
+,Quiflor Multi 100 mg/ml Solution for Injection for Cattle and Pigs (Sows),Marbofloxacin Solution for Injection,100,mg,1,ml,POM-V,N
 ,"Quiflor 20 mg/ml Solution for Injection for Cattle, Pigs and Dogs",Marbofloxacin Solution for Injection,20,mg,1,ml,POM-V,N
 ,Quiflor 5 mg Tablets for Cats and Dogs,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Quiflor 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
@@ -223,6 +225,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Norodine Bolus Tablet,Sulfadiazine & Trimethoprim Tablets,1200,mg,,,POM-V,N
 ,Norodine 24 Solution for Injection,Sulfadiazine & Trimethoprim Solution for Injection,240,mg,1,ml,POM-V,N
 ,Trimacare 24% Solution for Injection,Sulfadiazine & Trimethoprim Solution for Injection,240,mg,1,ml,POM-V,N
+,Trimediazine Plain Oral Powder,Sulfadiazine & Trimethoprim Powder,300,mg,1,gram,POM-V,N
 ,Trimedoxine 80 Tablets,Sulfadiazine & Trimethoprim Tablets,480,mg,,,POM-V,N
 ,Sulfatrim (16 mg/ml + 80 mg/ml) Oral Drops,Sulfamethoxazole & Trimethoprim Liquid,96,mg,1,ml,POM-V,N
 ,"Tylan 200, 200 mg/ml Solution for Injection",Tylosin Solution for Injection,200,mg,1,ml,POM-V,N
