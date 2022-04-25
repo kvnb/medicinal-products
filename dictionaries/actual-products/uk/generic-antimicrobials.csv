@@ -1,0 +1,93 @@
+id,name,product,SVN,SVNU,SVD,SVDU,category,CD
+,Amikacin 100mg/2ml solution for injection vials,Amikacin Solution for Injection,100,mg,1,vial,POM,N
+,Amikacin 500mg/2ml solution for injection vials,Amikacin Solution for Injection,500,mg,1,vial,POM,N
+,Ampicillin 250mg capsules,Ampicillin Capsules,250,mg,,,POM,N
+,Amoxicillin 250mg capsules,Amoxicillin Capsules,250,mg,,,POM,N
+,Amoxicillin 500mg capsules,Amoxicillin Capsules,500,mg,,,POM,N
+,Amoxicillin 125mg/5ml oral suspension,Amoxicillin Liquid,25,mg,1,ml,POM,N
+,Amoxicillin 250mg/5ml oral suspension,Amoxicillin Liquid,50,mg,1,ml,POM,N
+,Amoxicillin 500mg/5ml oral suspension,Amoxicillin Liquid,100,mg,1,ml,POM,N
+,Amoxicillin 500mg powder for solution for injection vials,Amoxicillin Solution for Injection,500,mg,1,vial,POM,N
+,Azithromycin 250mg capsules,Azithromycin Capsules,250,mg,,,POM,N
+,Azithromycin 250mg tablets,Azithromycin Tablets,250,mg,,,POM,N
+,Azithromycin 500mg tablets,Azithromycin Tablets,500,mg,,,POM,N
+,Azithromycin 200mg/5ml oral suspension,Azithromycin Liquid,40,mg,1,ml,POM,N
+,Co-amoxiclav 500mg/100mg Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,600,mg,1,vial,POM,N
+,Co-amoxiclav 1000mg/200mg Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,1200,mg,1,vial,POM,N
+,Co-amoxiclav Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,,,,,POM,N
+,Cefalexin 250mg capsules,Cefalexin Capsules,250,mg,,,POM,N
+,Cefalexin 500mg capsules,Cefalexin Capsules,500,mg,,,POM,N
+,Cefalexin 250mg tablets,Cefalexin Tablets,250,mg,,,POM,N
+,Cefalexin 500mg tablets,Cefalexin Tablets,500,mg,,,POM,N
+,Ceftazidime 500mg powder for solution for injection vials,Ceftazidime Solution for Injection,500,mg,1,vial,POM,N
+,Ceftazidime 1g powder for solution for injection vials,Ceftazidime Solution for Injection,1000,mg,1,vial,POM,N
+,Ceftazidime 2g powder for solution for injection vials,Ceftazidime Solution for Injection,2000,mg,1,vial,POM,N
+,Cefuroxime powder for injection vials,Cefuroxime Solution for Injection,,,,,POM,N
+,Cefuroxime 250mg powder for injection vials,Cefuroxime Solution for Injection,250,mg,1,vial,POM,N
+,Cefuroxime 750mg powder for injection vials,Cefuroxime Solution for Injection,750,mg,1,vial,POM,N
+,Cefuroxime 1.5g powder for injection vials,Cefuroxime Solution for Injection,1500,mg,1,vial,POM,N
+,Ciprofloxacin 250mg tablets,Ciprofloxacin Tablets,250,mg,,,POM,N
+,Ciprofloxacin 500mg tablets,Ciprofloxacin Tablets,500,mg,,,POM,N
+,Ciprofloxacin 0.3% w/v Eye Drops,Ciprofloxacin Eye Drops,,,,,POM,N
+,Chloramphenicol 5% Ear Drops,Chloramphenicol Ear Drops,,,,,POM,N
+,Chloramphenicol 10% Ear Drops,Chloramphenicol Ear Drops,,,,,POM,N
+,Chloramphenicol 0.5% Eye Drops,Chloramphenicol Eye Drops,,,,,POM,N
+,Chloramphenicol 1% Eye Ointment,Chloramphenicol Eye Ointment,,,,,POM,N
+,Clarithromycin 250mg tablets,Clarithromycin Tablets,250,mg,,,POM,N
+,Clarithromycin 500mg tablets,Clarithromycin Tablets,500,mg,,,POM,N
+,Clarithromycin 250mg/5ml oral suspension,Clarithromycin Liquid,50,mg,1,ml,POM,N
+,Clindamycin 300mg/2ml solution for injection ampoules,Clindamycin Solution for Injection,300,mg,1,ampoule,POM,N
+,Clindamycin 600mg/4ml solution for injection ampoules,Clindamycin Solution for Injection,600,mg,1,ampoule,POM,N
+,Co-trimoxazole tablets,Sulfamethoxazole & Trimethoprim Tablets,,,,,POM,N
+,Co-trimoxazole 80mg/400mg tablets,Sulfamethoxazole & Trimethoprim Tablets,480,mg,,,POM,N
+,Co-trimoxazole 160mg/800mg tablets,Sulfamethoxazole & Trimethoprim Tablets,960,mg,,,POM,N
+,Co-trimoxazole 40mg/200mg/5ml oral suspension,Sulfamethoxazole & Trimethoprim Liquid,48,mg,1,ml,POM,N
+,Co-trimoxazole 80mg/400mg/5ml oral suspension,Sulfamethoxazole & Trimethoprim Liquid,96,mg,1,ml,POM,N
+,Doxycycline 20mg Tablets,Doxycycline Tablets,20,mg,,,POM,N
+,Doxycycline capsules,Doxycycline Capsules,,,,,POM,N
+,Doxycycline 50mg capsules,Doxycycline Capsules,50,mg,,,POM,N
+,Doxycycline 100mg capsules,Doxycycline Capsules,100,mg,,,POM,N
+,Doxycycline 100mg/ml oral paste,Doxycycline Paste,100,mg,1,ml,POM,N
+,Doxycycline 50mg/ml oral solution,Doxycycline Liquid,50,mg,1,ml,POM,N
+,Enrofloxacin Custom Ear Drops,Enrofloxacin Ear Drops,,,,,POM-V,N
+,Erythromycin oral suspension,Erythromycin Liquid,,,,,POM,N
+,Erythromycin 125mg/5ml oral suspension,Erythromycin Liquid,25,mg,1,ml,POM,N
+,Erythromycin 250mg/5ml oral suspension,Erythromycin Liquid,50,mg,1,ml,POM,N
+,Erythromycin 250mg tablets,Erythromycin Tablets,250,mg,,,POM,N
+,Gentamicin 20mg/2ml solution for injection ampoules,Gentamicin Solution for Injection,20,mg,1,ampoule,POM,N
+,Gentamicin 80mg/2ml solution for injection ampoules,Gentamicin Solution for Injection,80,mg,1,ampoule,POM,N
+,Gentamicin 0.3% ear/eye drops,Gentamicin Eye Drops,,,,,POM,N
+,Marbofloxacin Custom Ear Drops,Marbofloxacin Ear Drops,,,,,POM-V,N
+,Metronidazole 25mg Tablets,Metronidazole Tablets,25,mg,,,POM,N
+,Metronidazole 50mg Tablets,Metronidazole Tablets,50,mg,,,POM,N
+,Metronidazole 100mg Tablets,Metronidazole Tablets,100,mg,,,POM,N
+,Metronidazole 200mg Tablets,Metronidazole Tablets,200,mg,,,POM,N
+,Metronidazole 400mg Tablets,Metronidazole Tablets,400,mg,,,POM,N
+,Metronidazole 500mg Tablets,Metronidazole Tablets,500,mg,,,POM,N
+,Metronidazole 50mg/ml oral suspension,Metronidazole Liquid,50,mg,1,ml,POM,N
+,Metronidazole 200mg/5ml oral suspension,Metronidazole Liquid,40,mg,1,ml,POM,N
+,Metronidazole 500mg/100ml infusion 100ml bags,Metronidazole Solution for Injection,500,mg,100,ml,POM,N
+,Minocycline 100mg tablets,Minocycline Tablets,100,mg,,,POM,N
+,Mupirocin 2% w/w Eye Ointment,Mupirocin Eye Ointment,,,,,POM,N
+,Nitrofurantoin 50mg tablets,Nitrofurantoin Tablets,50,mg,,,POM,N
+,Nitrofurantoin 100mg tablets,Nitrofurantoin Tablets,100,mg,,,POM,N
+,Ofloxacin 0.3% w/v Eye Drops,Ofloxacin Eye Drops,,,,,POM,N
+,Oxytetracycline 250mg tablets,Oxytetracycline Tablets,250,mg,,,POM,N
+,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials,Piperacillin & Tazobactam Solution for Injection,4500,mg,1,vial,POM,N
+,"Polymixin B, Dexamethasone, Neomycin Eye Drops","Polymixin B, Dexamethasone, Neomycin Eye Drops",,,,,POM,N
+,"Polymixin B, Dexamethasone, Neomycin Eye Ointment","Polymixin B, Dexamethasone, Neomycin Eye Ointment",,,,,POM,N
+,Rifampicin 300mg capsules,Rifampicin Capsules,300,mg,,,POM,N
+,Rifampicin 100mg/5ml syrup,Rifampicin Liquid,20,mg,1,ml,POM,N
+,Sulfadiazine 1% Cream,Sulfadiazine Cream,,,,,POM,N
+,Sulfadiazine Custom Ear Drops,Sulfadiazine Ear Drops,,,,,POM,N
+,Tetracycline 250mg tablets,Tetracycline Tablets,250,mg,,,POM,N
+,"Tobramycin, Dexamethasone Eye Drops","Tobramycin, Dexamethasone Eye Drops",,,,,POM,N
+,Trimethoprim 100mg tablets,Trimethoprim Tablets,100,mg,,,POM,N
+,Trimethoprim 200mg tablets,Trimethoprim Tablets,200,mg,,,POM,N
+,Trimethoprim 50mg/5ml oral suspension,Trimethoprim Liquid,10,mg,1,ml,POM,N
+,Tylosin Tablets,Tylosin Tablets,,,,,POM,N
+,Tylosin 50mg Tablets,Tylosin Tablets,50,mg,,,POM,N
+,Tylosin 100mg Tablets,Tylosin Tablets,100,mg,,,POM,N
+,Fusidic acid 2% cream,Fusidic Acid Cream,,,,,POM,N
+,Fusidic acid 2% ointment,Fusidic Acid Ointment,,,,,POM,N
+,Fusidic acid 1% modified-release eye drops,Fusidic Acid Eye Drops,,,,,POM,N
