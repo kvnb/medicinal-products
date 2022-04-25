@@ -57,12 +57,14 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Synuclav 50 mg Tablets for Dogs and Cats,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
 ,Synuclav Palatable Tablets 500 mg for Dogs,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
 ,Synuclav Suspension for Injection,Amoxicillin & Clavulanic Acid Suspension for Injection,,,,,POM-V,N
+,Synulox Tablets,Amoxicillin & Clavulanic Acid Tablets,,,,,POM-V,N
 ,"Synulox Palatable Drops, Powder for Oral Suspension",Amoxicillin & Clavulanic Acid Liquid,50,mg,1,ml,POM-V,N
 ,Synulox Palatable Tablets 250 mg,Amoxicillin & Clavulanic Acid Tablets,250,mg,,,POM-V,N
 ,Synulox Palatable Tablets 50 mg,Amoxicillin & Clavulanic Acid Tablets,50,mg,,,POM-V,N
 ,Synulox Palatable Tablets 500 mg,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
 ,Synulox Bolus 500 mg Film-Coated Tablets,Amoxicillin & Clavulanic Acid Tablets,500,mg,,,POM-V,N
 ,Synulox Ready-to-Use Suspension for Injection,Amoxicillin & Clavulanic Acid Suspension for Injection,,,,,POM-V,N
+,Synulox Lactating Cow Intramammary Suspension,Amoxicillin & Clavulanic Acid Intramammary Suspension,,,,,POM-V,N
 ,Amfipen LA 100 mg/ml Suspension for Injection,Ampicillin LA Suspension for Injection,100,mg,1,ml,POM-V,N
 ,Ampicare 250 mg Hard Capsules,Ampicillin Capsules,250,mg,,,POM-V,N
 ,Cefabactin 1000 mg Tablets for Dogs,Cefalexin Tablets,1000,mg,,,POM-V,N
@@ -85,6 +87,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Rilexine 300 mg Tablets for Dogs,Cefalexin Tablets,300,mg,,,POM-V,N
 ,Rilexine 600 mg Tablets for Dogs,Cefalexin Tablets,600,mg,,,POM-V,N
 ,Rilexine 75 mg Tablets for Dogs and Cats,Cefalexin Tablets,75,mg,,,POM-V,N
+,Therios Tablets,Cefalexin Tablets,,,,,POM-V,N
 ,Therios 300 mg Palatable Tablets for Dogs,Cefalexin Tablets,300,mg,,,POM-V,N
 ,Therios 75 mg Chewable Tablets for Cats,Cefalexin Tablets,75,mg,,,POM-V,N
 ,Therios 750 mg Palatable Tablets for Dogs,Cefalexin Tablets,750,mg,,,POM-V,N
@@ -114,6 +117,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Mycinor 25 mg Tablets for Dogs,Clindamycin Tablets,25,mg,,,POM-V,N
 ,Mycinor 300 mg Tablets for Dogs,Clindamycin Tablets,300,mg,,,POM-V,N
 ,Mycinor 75 mg Tablets for Dogs,Clindamycin Tablets,75,mg,,,POM-V,N
+,Zodon Tablets,Clindamycin Tablets,,,,,POM-V,N
 ,Zodon 150 mg Chewable Tablets for Dogs,Clindamycin Tablets,150,mg,,,POM-V,N
 ,Zodon 25 mg/ml Oral Solution for Cats and Dogs,Clindamycin Liquid,25,mg,1,ml,POM-V,N
 ,Zodon 264 mg Chewable Tablets for Dogs,Clindamycin Tablets,264,mg,,,POM-V,N
@@ -135,6 +139,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Ronaxan 20 mg Tablets for Dogs and Cats,Doxycycline Tablets,20,mg,,,POM-V,N
 ,Baytril 2.5% Oral Solution,Enrofloxacin Liquid,25,mg,1,ml,POM-V,N
 ,Baytril 10% Oral Solution,Enrofloxacin Liquid,100,mg,1,ml,POM-V,N
+,Baytril Solution for Injection,Enrofloxacin Solution for Injection,,,,,POM-V,N
 ,Baytril 25 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,25,mg,1,ml,POM-V,N
 ,Baytril 50 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,50,mg,1,ml,POM-V,N
 ,Baytril 100 mg/ml Solution for Injection,Enrofloxacin Solution for Injection,100,mg,1,ml,POM-V,N
@@ -166,14 +171,16 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Xeden 150 mg Tablet for Dogs,Enrofloxacin Tablets,150,mg,,,POM-V,N
 ,Xeden 200 mg Tablet for Dogs,Enrofloxacin Tablets,200,mg,,,POM-V,N
 ,Xeden 50 mg Tablet for Dogs,Enrofloxacin Tablets,50,mg,,,POM-V,N
-,"Isathal 10 mg/g Eye Drops, Suspension for Dogs, Cats and Rabbits",Fucidic Acid Ointment,10,mg,1,g,POM-V,N
+,"Isathal 10 mg/g Eye Drops, Suspension for Dogs, Cats and Rabbits",Fusidic Acid Ointment,10,mg,1,g,POM-V,N
 ,"Tiacil 0.50% w/v Eye Drops, Solution",Gentamicin Eye Drops,,,,,POM-V,N
+,"Lincocin Soluble Powder, 400 mg/g Powder for Use in Drinking Water",Lincomycin Liquid,,,,,POM-V,N
 ,Lincocin Sterile Solution 100 mg/ml Sterile Solution for Injection,Lincomycin Solution for Injection,100,mg,1,ml,POM-V,N
 ,Lincoject 10% w/v Solution for Injection,Lincomycin Solution for Injection,100,mg,1,ml,POM-V,N
 ,Boflox Flavour 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
 ,Efex 10 mg Chewable Tablets for Cats and Dogs,Marbofloxacin Tablets,10,mg,,,POM-V,N
 ,Efex 100 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,100,mg,,,POM-V,N
 ,Efex 40 mg Chewable Tablets for Dogs,Marbofloxacin Tablets,40,mg,,,POM-V,N
+,Marbocare Solution for Injection,Marbofloxacin Solution for Injection,,,,,POM-V,N
 ,Marbocare Flavour 20 mg Tablets for Dogs,Marbofloxacin Tablets,20,mg,,,POM-V,N
 ,Marbocare Flavour 5 mg Tablets for Dogs and Cats,Marbofloxacin Tablets,5,mg,,,POM-V,N
 ,Marbocare Flavour 80 mg Tablets for Dogs,Marbofloxacin Tablets,80,mg,,,POM-V,N
