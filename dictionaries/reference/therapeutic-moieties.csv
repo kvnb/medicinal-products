@@ -29,6 +29,7 @@ id,name,class,family,combination
 ,Amoxicillin & Clavulanic Acid,Penicillins (aminopenicillins with beta-lactamase inhibitors),Antimicrobial,FALSE
 ,Amoxicillin,Penicillins (aminopenicillins),Antimicrobial,FALSE
 ,Ampicillin,Penicillins (aminopenicillins),Antimicrobial,FALSE
+,Piperacillin & Tazobactam,Penicillins (antipseudomonal),Antimicrobial,FALSE
 ,Cloxacillin,Penicillins (antistaphylococcal),Antimicrobial,FALSE
 ,Procaine Benzylpenicillin,Penicillins (narrow spectrum),Antimicrobial,FALSE
 ,Penicillin G,Penicillins (narrow spectrum),Antimicrobial,FALSE
@@ -47,8 +48,10 @@ id,name,class,family,combination
 ,Sulfadiazine,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
 ,Sulfadiazine & Trimethoprim,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
 ,Sulfamethoxazole & Trimethoprim,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
+,Trimethoprim,"Sulfonamides, dihydrofolate reductase inhibitors, and combinations",Antimicrobial,FALSE
 ,Chlortetracycline,Tetracyclines,Antimicrobial,FALSE
 ,Doxycycline,Tetracyclines,Antimicrobial,FALSE
+,Minocycline,Tetracyclines,Antimicrobial,FALSE
 ,Oxytetracycline,Tetracyclines,Antimicrobial,FALSE
 ,Tetracycline,Tetracyclines,Antimicrobial,FALSE
 ,Chlorhexidine,Antiseptic,Antiseptic,FALSE
@@ -86,3 +89,5 @@ id,name,class,family,combination
 ,"Florfenicol, Betamethasone, Terbinafine",,,TRUE
 ,"Gentamicin, Betamethasone, Clotrimazole",,,TRUE
 ,"Orbifloxacin, Mometasone, Posaconazole",,,TRUE
+,"Polymixin B, Neomycin, Dexamethasone",,,TRUE
+,"Tobramycin, Dexamethasone",,,TRUE
