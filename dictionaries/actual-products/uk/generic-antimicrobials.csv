@@ -15,6 +15,7 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Co-amoxiclav 500mg/100mg Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,600,mg,1,vial,POM,N
 ,Co-amoxiclav 1000mg/200mg Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,1200,mg,1,vial,POM,N
 ,Co-amoxiclav Powder for Solution for Injection,Amoxicillin & Clavulanic Acid Solution for Injection,,,,,POM,N
+,Co-amoxiclav 250mg/62mg/5ml oral suspension,Amoxicillin & Clavulanic Acid Liquid,62.5,mg,1,ml,POM,N
 ,Cefalexin 250mg capsules,Cefalexin Capsules,250,mg,,,POM,N
 ,Cefalexin 500mg capsules,Cefalexin Capsules,500,mg,,,POM,N
 ,Cefalexin 250mg tablets,Cefalexin Tablets,250,mg,,,POM,N
@@ -76,8 +77,18 @@ id,name,product,SVN,SVNU,SVD,SVDU,category,CD
 ,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials,Piperacillin & Tazobactam Solution for Injection,4500,mg,1,vial,POM,N
 ,"Polymixin B, Dexamethasone, Neomycin Eye Drops","Polymixin B, Dexamethasone, Neomycin Eye Drops",,,,,POM,N
 ,"Polymixin B, Dexamethasone, Neomycin Eye Ointment","Polymixin B, Dexamethasone, Neomycin Eye Ointment",,,,,POM,N
+,Rifampicin 50mg capsules,Rifampicin Capsules,50,mg,,,POM,N
 ,Rifampicin 300mg capsules,Rifampicin Capsules,300,mg,,,POM,N
 ,Rifampicin 100mg/5ml syrup,Rifampicin Liquid,20,mg,1,ml,POM,N
+,Ronidazole 30mg Tablets,Ronidazole Tablets,30,mg,,,POM,N
+,Ronidazole 60mg Tablets,Ronidazole Tablets,60,mg,,,POM,N
+,Ronidazole 75mg Capsules,Ronidazole Capsules,75,mg,,,POM,N
+,Ronidazole 80mg Capsules,Ronidazole Capsules,80,mg,,,POM,N
+,Ronidazole 90mg Capsules,Ronidazole Capsules,90,mg,,,POM,N
+,Ronidazole 100mg Capsules,Ronidazole Capsules,100,mg,,,POM,N
+,Ronidazole 120mg Capsules,Ronidazole Capsules,120,mg,,,POM,N
+,Ronidazole 150mg Capsules,Ronidazole Capsules,150,mg,,,POM,N
+,Ronidazole 160mg Capsules,Ronidazole Capsules,160,mg,,,POM,N
 ,Sulfadiazine 1% Cream,Sulfadiazine Cream,,,,,POM,N
 ,Sulfadiazine Custom Ear Drops,Sulfadiazine Ear Drops,,,,,POM,N
 ,Tetracycline 250mg tablets,Tetracycline Tablets,250,mg,,,POM,N

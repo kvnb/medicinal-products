@@ -84,9 +84,12 @@ id,name,moiety,form,route
 ,Procaine Benzylpenicillin Suspension for Injection,Procaine Benzylpenicillin,Suspension for Injection,Injectable
 ,Rifampicin Capsules,Rifampicin,Capsule,Oral
 ,Rifampicin Liquid,Rifampicin,Liquid,Oral
+,Ronidazole Capsules,Ronidazole,Capsule,Oral
+,Ronidazole Tablets,Ronidazole,Tablet,Oral
 ,Streptomycin Solution for Injection,Streptomycin,Solution for Injection,Injectable
 ,Sulfadiazine Ear Drops,Sulfadiazine,Ear Drop,Topical
 ,Sulfadiazine Cream,Sulfadiazine,Cream,Topical
+,Sulfadiazine & Trimethoprim Paste,Sulfadiazine & Trimethoprim,Paste,Oral
 ,Sulfadiazine & Trimethoprim Powder,Sulfadiazine & Trimethoprim,Powder,Oral
 ,Sulfadiazine & Trimethoprim Solution for Injection,Sulfadiazine & Trimethoprim,Solution for Injection,Injectable
 ,Sulfadiazine & Trimethoprim Tablets,Sulfadiazine & Trimethoprim,Tablet,Oral
