@@ -89,5 +89,5 @@ id,name,class,family,combination
 ,"Florfenicol, Betamethasone, Terbinafine",,,TRUE
 ,"Gentamicin, Betamethasone, Clotrimazole",,,TRUE
 ,"Orbifloxacin, Mometasone, Posaconazole",,,TRUE
-,"Polymixin B, Neomycin, Dexamethasone",,,TRUE
+,"Polymixin B, Dexamethasone, Neomycin",,,TRUE
 ,"Tobramycin, Dexamethasone",,,TRUE

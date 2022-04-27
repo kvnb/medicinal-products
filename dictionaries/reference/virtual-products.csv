@@ -116,6 +116,6 @@ id,name,moiety,form,route
 ,"Gentamicin, Betamethasone, Clotrimazole Topical Suspension","Gentamicin, Betamethasone, Clotrimazole",Topical Suspension,Topical
 ,"Orbifloxacin, Mometasone, Posaconazole Topical Suspension","Orbifloxacin, Mometasone, Posaconazole",Topical Suspension,Topical
 ,"Penicillin G, Procaine Benzylpenicillin LA Suspension for Injection","Penicillin G, Procaine Benzylpenicillin",LA Suspension for Injection,Injectable
-,"Polymixin B, Neomycin, Dexamethasone Eye Drops","Polymixin B, Neomycin, Dexamethasone",Eye Drop,Topical
-,"Polymixin B, Neomycin, Dexamethasone Eye Ointment","Polymixin B, Neomycin, Dexamethasone",Ointment,Topical
+,"Polymixin B, Dexamethasone, Neomycin Eye Drops","Polymixin B, Dexamethasone, Neomycin",Eye Drop,Topical
+,"Polymixin B, Dexamethasone, Neomycin Eye Ointment","Polymixin B, Dexamethasone, Neomycin",Ointment,Topical
 ,"Tobramycin, Dexamethasone Eye Drops","Tobramycin, Dexamethasone",Eye Drop,Topical
